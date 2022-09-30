@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-moviechitchat-staging-143626-authRole",
+      "UnauthRoleArn": "arn:aws:iam::439309648562:role/amplify-moviechitchat-staging-143626-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::439309648562:role/amplify-moviechitchat-staging-143626-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-moviechitchat-staging-143626-deployment",
+      "UnauthRoleName": "amplify-moviechitchat-staging-143626-unauthRole",
+      "StackName": "amplify-moviechitchat-staging-143626",
+      "StackId": "arn:aws:cloudformation:ap-south-1:439309648562:stack/amplify-moviechitchat-staging-143626/482c49f0-32a8-11ed-9637-06f672bdb2bc",
+      "AmplifyAppId": "d138uiicik64tl"
+    }
+  }
+}
