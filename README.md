@@ -14,6 +14,8 @@ Have you ever thought where you can share your thoughts on your fav. & latest mo
 - **Settings** - Can switch between theme of app
 - **Movie Detail** - To see particular movie details
 
+More about app : 
+https://axat.hashnode.dev/movie-chit-chat-an-app-to-chat-discuss-on-latest-movies-with-your-friends-family-aws-amplify-hackathon 
 
 ![HashnodeBanner](https://user-images.githubusercontent.com/50077510/193337966-28250aef-42b2-40f8-b143-5d1a57feb5de.png)
 
