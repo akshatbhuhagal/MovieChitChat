@@ -1,16 +1,17 @@
-# moviechitchat
+# Movie Chit-Chat 
 
-A new Flutter project.
+An app to chat & discuss on latest movies with your friends & family and people all around the world 💬
+Have you ever thought where you can share your thoughts on your fav. & latest movies? Movie Chit-Chat is awesome app where you can share your words.💬
 
-## Getting Started
+## App Features
 
-This project is a starting point for a Flutter application.
+- **Splash** - Starting with Beautiful Splash Screen
+- **Welcome** - To welcome & check where user should go
+- **Login** - Allow the user to login
+- **SignUp** - Allow the user to sign up
+- **Home** - User can see all the recent movies group
+- **Chat** - User can chat with other people's on particular movie group
+- **Settings** - Can switch between theme of app
+- **Movie Detail** - To see particular movie details
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
