@@ -15,3 +15,6 @@ Have you ever thought where you can share your thoughts on your fav. & latest mo
 - **Movie Detail** - To see particular movie details
 
 
+![HashnodeBanner](https://user-images.githubusercontent.com/50077510/193337966-28250aef-42b2-40f8-b143-5d1a57feb5de.png)
+
+![MainDesigns](https://user-images.githubusercontent.com/50077510/193337986-be3c784c-0944-41d8-bb56-cb56c503dcda.png)
