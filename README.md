@@ -14,7 +14,7 @@ Have you ever thought where you can share your thoughts on your fav. & latest mo
 - **Settings** - Can switch between theme of app
 - **Movie Detail** - To see particular movie details
 
-Download Now - https://github.com/akshatbhuhagal/MovieChitChat/releases/tag/Debug-Apk-V1.0
+Download Now - https://github.com/akshatbhuhagal/MovieChitChat/releases
 
 More about app : 
 https://axat.hashnode.dev/movie-chit-chat-an-app-to-chat-discuss-on-latest-movies-with-your-friends-family-aws-amplify-hackathon 
