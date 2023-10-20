@@ -21,4 +21,4 @@ Blog : https://axat.hashnode.dev/movie-chit-chat-an-app-to-chat-discuss-on-lates
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/50077510/193337986-be3c784c-0944-41d8-bb56-cb56c503dcda.png"> </p>
 
-[![Movie Chit-Chat](https://yt-embed.herokuapp.com/embed?v=Ukb8Ajzqfe0)](https://www.youtube.com/watch?v=Ukb8Ajzqfe0 "Movie Chit-Chat")
+[<img src="https://cdn.worldvectorlogo.com/logos/youtube-6.svg" width="100">](https://www.youtube.com/watch?v=Ukb8Ajzqfe0 "Movie Chit-Chat")
